@@ -13,8 +13,7 @@
 
 4. Obtain an **GOOGLE GEMINI**. You can sign up for an API key at. https://aistudio.google.com
 
-5. Replace the placeholder API key in the main.py file with your actual GOOGLE GEMINI API key:
-
+5. : Add you api key in project folder that name as .env
 
 6. Run the Streamlit application:
 
